@@ -1,0 +1,14 @@
+# Python and editor-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep the reflection submission separate from the public code repository
+/WeatherBeats_Sydney_Critical_Reflection_DRAFT.pdf
