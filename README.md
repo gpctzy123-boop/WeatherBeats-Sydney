@@ -47,5 +47,4 @@ Weather is selected manually; this prototype does not fetch live Bureau of Meteo
 ## Acknowledgements
 
 - TunePad's `playNote()` and `rest()` functions are documented by [TunePad](https://learn.tunepad.com/docs/).
-- The weather mapping, TunePad-cell structure, troubleshooting notes, documentation drafts, and weather visual development used generative-AI assistance. This use is documented separately in the assignment's GenAI declaration, including the student's real prompt and output evidence.
 - No third-party code has been copied into this repository. The built-in TunePad music API is used as documented above.
