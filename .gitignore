@@ -10,5 +10,4 @@ venv/
 Thumbs.db
 desktop.ini
 
-# Keep the reflection submission separate from the public code repository
-/WeatherBeats_Sydney_Critical_Reflection_DRAFT.pdf
+
